@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week8Testing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="call">Dial and Call</string>
+    <string name="url">Open Web</string>
+    <string name="file">Share File</string>
+</resources>

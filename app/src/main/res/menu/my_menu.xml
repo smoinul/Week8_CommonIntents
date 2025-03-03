@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/alarm"
+        android:title="Alarm"
+        android:icon="@drawable/baseline_alarm_24"
+        app:showAsAction="ifRoom"
+    />
+
+    <item
+        android:id="@+id/calling"
+        android:title="Call"
+        android:icon="@drawable/baseline_call_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/web"
+        android:title="Web"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/file"
+        android:title="File"
+        app:showAsAction="never"
+        />
+
+</menu>
